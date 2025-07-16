@@ -37,10 +37,15 @@ Esta unidad explora los algoritmos y técnicas fundamentales del aprendizaje aut
 
 ### Procesamiento de Lenguaje Natural (PLN)
 
-
-
 > [Carpeta de PLN](./04_pln/)
 
+### Deep Learning
+
+> [Carpeta de Deep Learning](./05_deeplearning/)
+
+### Proyecto
+
+> [Carpeta de Proyecto](./06_proyecto/)
 
 ### Unidades Futuras
 
