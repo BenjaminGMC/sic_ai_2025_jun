@@ -35,6 +35,13 @@ Esta unidad explora los algoritmos y técnicas fundamentales del aprendizaje aut
 
 > [Carpeta de Machine Learning](./03machinelearning/)
 
+### Procesamiento de Lenguaje Natural (PLN)
+
+
+
+> [Carpeta de PLN](./04_pln/)
+
+
 ### Unidades Futuras
 
 El curso continuará expandiéndose con los siguientes módulos:
