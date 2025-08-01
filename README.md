@@ -1,9 +1,5 @@
-<<<<<<< HEAD
 # sic_ai_2025_jun
-Repositorio del Curso SIC 2025 desde Junio a Agosto
-=======
-# Repositorio de SIC Chile 2025: Inteligencia Artificial
-
+## Repositorio del Curso SIC 2025 desde Junio a Agosto 
 ## Sobre el curso
 
 **Nombre del curso:** SIC AI 2025 Chile  
@@ -158,4 +154,3 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo [LICENSE](LICENSE) para
 **¡Bienvenido al fascinante mundo de la Inteligencia Artificial!** 🚀🤖
 
 *"La mejor manera de predecir el futuro es creándolo"* - Alan Kay
->>>>>>> upstream/main
